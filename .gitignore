@@ -1,0 +1,46 @@
+# Kredensial & File Rahasia (SANGAT PENTING)
+.env
+*.env
+!.env.example
+
+# Google Credentials
+credentials/
+gdrive_credentials/
+token.json
+*.json
+!.env.example
+
+# Logs
+logs/
+*.log
+bot.log
+
+# Lingkungan Virtual Python
+venv/
+.venv/
+env/
+.env/
+
+# File Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# File Sistem Operasi & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Database files (jika ada)
+*.db
+*.sqlite
+*.sqlite3
