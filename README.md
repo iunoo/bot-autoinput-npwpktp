@@ -156,5 +156,5 @@ logs/                # For debugging
 
 ---
 
-**Last Updated**: January 2025  
+**Last Updated**: July 2025  
 **Version**: 1.0.0
