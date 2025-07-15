@@ -15,8 +15,8 @@ AI-powered document processing bot untuk dokumen KTP dan NPWP Indonesia. Bot ini
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/iunoo/bot-autoinput-npwpktp.git
-cd bot-autoinput-npwpktp
+git clone https://github.com/iunoo/bot-AutoInputKTPNPWP
+cd bot-AutoInputKTPNPWP
 pip install -r requirements.txt
 ```
 
